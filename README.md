@@ -1,8 +1,9 @@
 # HP-15-dc1010nr-hackintosh
 
 **Support to Catalina** | **Tested on Catalina v10.15.7**
+OpenCore version: 0.6.2
 
-HP-15-dc1010nr-hackintosh/惠普暗影精灵5-OpenCore-EFI
+HP-15-dc1010nr-hackintosh/暗影精灵5-OpenCore-EFI
 
 | HardWare |                                                    |
 | -------- | -------------------------------------------------- |
@@ -51,6 +52,11 @@ Intel Wi-Fi Drivers: https://github.com/OpenIntelWireless/itlwm
 
 Intel Bluetooth Drivers: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
+> `itlwm.kext` uses Apple's IOEthernet rather than IO80211.
+> Spoofing into Ethernet does not affect performance.
+
+**This is why you will see two Ethernet adapters in the demonstration image.**
+
 **Remember to install HeliPort as it is use to connect Wi-Fi**
 
 4. **Non-original battery prompt when startup**
@@ -64,7 +70,11 @@ You need to use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to genrate yo
 Please read :
 https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial
 
+6. **Built-in Retina Display**
 
+![Snipaste_2020-10-26_07-42-03.png](https://i.loli.net/2020/10/26/OnlQAGmu9JsNTxg.png)
+
+It is convenient to use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) to enable macOS HIDPI and native display settings.
 
 ## Demonstration
 
@@ -75,3 +85,4 @@ https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#genera
 ![Snipaste_2020-10-25_21-40-28.png](https://i.loli.net/2020/10/25/bHk3ULG4PAjx7Qq.png)
 
 ![Snipaste_2020-10-25_22-32-27.png](https://i.loli.net/2020/10/25/VKvZSdE3lani65O.png)
+
