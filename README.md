@@ -1,6 +1,7 @@
 # HP-15-dc1010nr-hackintosh
 
 **Support to Catalina** | **Tested on Catalina v10.15.7**
+
 OpenCore version: 0.6.2
 
 HP-15-dc1010nr-hackintosh/暗影精灵5-OpenCore-EFI
