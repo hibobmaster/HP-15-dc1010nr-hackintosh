@@ -33,7 +33,7 @@ Due to HDMI port is conjuncted with dGPU, if you need external display, try to  
 
 ## Explanations
 
-1. iGPU: PciRoot(0x0)/Pci(0x2,0x0)
+1. **iGPU: PciRoot(0x0)/Pci(0x2,0x0)**
 
 * AAPL,ig-platform-id: 00009B3E
 * enable-dpcd-max-link-rate-fix
@@ -41,11 +41,11 @@ Due to HDMI port is conjuncted with dGPU, if you need external display, try to  
 
 Without above two args，you may stuck on or near `IOConsoleUsers:gIOScreenLock.../gIOLockState`
 
-2. Audio: PciRoot(0x0)/Pci(0x1F,0x3)
+2. **Audio: PciRoot(0x0)/Pci(0x1F,0x3)**
 
 Layout-id = 3
 
-3. Native wireless and bluetooth
+3. **Native wireless and bluetooth**
 
 Intel Wi-Fi Drivers: https://github.com/OpenIntelWireless/itlwm
 
@@ -53,10 +53,16 @@ Intel Bluetooth Drivers: https://github.com/OpenIntelWireless/IntelBluetoothFirm
 
 **Remember to install HeliPort as it is use to connect Wi-Fi**
 
-4. Non-original battery prompt when startup
+4. **Non-original battery prompt when startup**
 
 This happens when you just used an USB bootloader or shutdown computer abnormally
 **Press the battery button for more than 10s, then start computer again, the prompt will be missing**
+
+5. **For iservice**: 
+
+You need to use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to genrate your MLB、SystemSerialNumber、SystemUUID
+Please read :
+https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial
 
 
 
