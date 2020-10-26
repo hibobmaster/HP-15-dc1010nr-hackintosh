@@ -1,5 +1,7 @@
 # HP-15-dc1010nr-hackintosh
 
+https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
+
 **Support to Catalina** | **Tested on Catalina v10.15.7**
 
 OpenCore version: 0.6.2
@@ -36,7 +38,6 @@ Due to HDMI port is conjuncted with dGPU, if you need external display, try to  
 ## Explanations
 
 1. **iGPU: PciRoot(0x0)/Pci(0x2,0x0)**
-
 * AAPL,ig-platform-id: 00009B3E
 * enable-dpcd-max-link-rate-fix
 * dpcd-max-link-rate 
@@ -86,4 +87,3 @@ It is convenient to use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) 
 ![Snipaste_2020-10-25_21-40-28.png](https://i.loli.net/2020/10/25/bHk3ULG4PAjx7Qq.png)
 
 ![Snipaste_2020-10-25_22-32-27.png](https://i.loli.net/2020/10/25/VKvZSdE3lani65O.png)
-
