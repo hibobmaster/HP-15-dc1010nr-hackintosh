@@ -57,9 +57,7 @@ Intel Bluetooth Drivers: https://github.com/OpenIntelWireless/IntelBluetoothFirm
 > `itlwm.kext` uses Apple's IOEthernet rather than IO80211.
 > Spoofing into Ethernet does not affect performance.
 
-**This is why you will see two Ethernet adapters in the demonstration image.**
-
-**Remember to install HeliPort as it is use to connect Wi-Fi**
+**Now use AirportItlwm.kext instead, so heliport is no longer needed.**
 
 4. **Non-original battery prompt when startup**
 
