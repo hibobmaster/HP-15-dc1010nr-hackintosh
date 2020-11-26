@@ -2,7 +2,7 @@
 
 https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
-**Support to Big Sur** | ** Tested on Catalina v10.15.7 and Big Sur 11.0.1 **
+**Support to Big Sur** | **Tested on Catalina v10.15.7 and Big Sur 11.0.1**
 
 OpenCore version: 0.6.3
 
