@@ -2,7 +2,7 @@
 
 https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
-**Support to Catalina** | **Tested on Catalina v10.15.7**
+**Support to Catalina** | **Tested on Catalina v10.15.7 and Big Sur 11.0.1 **
 
 OpenCore version: 0.6.3
 
@@ -77,7 +77,7 @@ https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#genera
 It is convenient to use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) to enable macOS HIDPI and native display settings.
 
 ## Demonstration
-
+![Big Sur.png](https://i.loli.net/2020/11/26/gPmIFCxsE1tSjv2.png)
 ![](https://i.loli.net/2020/10/25/cl5RHLF3smzrMWh.png)
 
 ![Snipaste_2020-10-25_21-40-12.png](https://i.loli.net/2020/10/25/d6JQipSgfoH7Fal.png)
