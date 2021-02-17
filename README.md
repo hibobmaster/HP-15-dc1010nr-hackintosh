@@ -1,3 +1,4 @@
+**Moved to Linux, so this repository is no longer maintained!**
 # HP-15-dc1010nr-hackintosh
 
 https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
