@@ -1,11 +1,15 @@
-**Moved to Linux, so this repository is no longer maintained!**
+
 # HP-15-dc1010nr-hackintosh
 
 https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
-**Support to Big Sur** | **Tested on Catalina v10.15.7 and Big Sur 11.0.1**
 
-OpenCore version: 0.6.3
+**Support to macOS Monterey** | **Tested on Catalina v10.15.7 Big Sur 11.0.1 and Monterey 12.0 Beta5**
+
+OpenCore version: 0.7.2 (Monterey and Big Sur) <br>
+Please download it from release: https://github.com/hibobmaster/HP-15-dc1010nr-hackintosh/releases
+
+OpenCore version: 0.6.3 (Catalina and Big Sur)
 
 HP-15-dc1010nr-hackintosh/暗影精灵5-OpenCore-EFI
 
@@ -78,6 +82,7 @@ https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#genera
 It is convenient to use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) to enable macOS HIDPI and native display settings.
 
 ## Demonstration
+![Screen Shot 2021-08-28 at 4 22 06 PM](https://user-images.githubusercontent.com/32976627/131211672-9231ec46-0755-4f9c-93c0-2ccd0542f201.png)
 ![Big Sur.png](https://i.loli.net/2020/11/26/gPmIFCxsE1tSjv2.png)
 ![](https://i.loli.net/2020/10/25/cl5RHLF3smzrMWh.png)
 
