@@ -6,7 +6,7 @@ https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
 **Support to macOS Monterey** | **Tested on Catalina v10.15.7 Big Sur 11.0.1 and Monterey 12.0 Beta5**
 
-OpenCore version: 0.7.2 (Monterey and Big Sur) <br>
+OpenCore version: 0.7.2 (Monterey and Big Sur include BCM Card version，only BCM94352z tested) <br>
 Please download it from release: https://github.com/hibobmaster/HP-15-dc1010nr-hackintosh/releases
 
 OpenCore version: 0.6.3 (Catalina and Big Sur)
@@ -20,7 +20,7 @@ HP-15-dc1010nr-hackintosh/暗影精灵5-OpenCore-EFI
 | dGPU     | GTX1650                                            |
 | Audio    | Realtek ALC295                                     |
 | Disk     | HP SSD EX920 + Netac SSD                           |
-| Wireless | Wireless-AC 9560                                   |
+| Wireless | Wireless-AC 9560/BCM94352z                                   |
 | Ethernet | Realtek 8111/8168/8411 PCI Express Gigabit Etherne |
 
 **Remember to change PM981 NVME even there is a NvmeFix.kext. (Potential problems)**
