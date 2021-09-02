@@ -9,7 +9,8 @@ https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 OpenCore version: 0.7.2 (Monterey and Big Sur include BCM Card version，only BCM94352z tested) <br>
 Please download it from release: https://github.com/hibobmaster/HP-15-dc1010nr-hackintosh/releases
 
-OpenCore version: 0.6.3 (Catalina and Big Sur)
+OpenCore version: 0.6.3 (Catalina and Big Sur)  <br>
+https://down.sky-and-poem.fun/source/static/HP-15-dc1010nr-hackintosh-main.zip
 
 HP-15-dc1010nr-hackintosh/暗影精灵5-OpenCore-EFI
 
