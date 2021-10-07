@@ -6,7 +6,7 @@ https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
 **Support to macOS Monterey** | **Tested on Catalina v10.15.7 Big Sur 11.6 (20G165) and Monterey 12.0 Beta5**
 
-OpenCore version: 0.7.4(dev) (Monterey and Big Sur include BCM Card version，only BCM94352z tested) <br>
+OpenCore version: 0.7.4 (Monterey and Big Sur include BCM Card version，only BCM94352z tested) <br>
 Please download it from release: https://github.com/hibobmaster/HP-15-dc1010nr-hackintosh/releases
 
 OpenCore version: 0.6.3 (Catalina and Big Sur)  <br>
