@@ -4,7 +4,7 @@
 https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
 
-**Support to macOS Monterey** | **Tested on Catalina v10.15.7 Big Sur 11.6 (20G165) and Monterey 12.0 Beta5**
+**Support to macOS Monterey** | **Tested on Catalina v10.15.7 Big Sur 11.6 (20G165) and Monterey 12.1**
 
 OpenCore version: 0.7.7  <br>
 Please download it from release: https://github.com/hibobmaster/HP-15-dc1010nr-hackintosh/releases
