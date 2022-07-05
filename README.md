@@ -4,7 +4,7 @@
 https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
 
-**Support to macOS Ventura** | **Tested on Catalina v10.15.7 Big Sur 11.6 (20G165) Monterey 12.1 Ventura 13.0 Beta (22A5286j)** 
+**Support to macOS Ventura** | **Tested on Catalina v10.15.7 | Big Sur 11.6 (20G165) | Monterey 12.1 | Ventura 13.0 Beta (22A5286j) |** <br>
 OpenCore version: 0.8.2 (macOS 13 only) <br>
 https://cloud.bobmaster.cyou/s/byxkz2jK3GgeEtd
 
