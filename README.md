@@ -4,12 +4,12 @@
 https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
 
-**Support to macOS Ventura** | **Tested on Catalina v10.15.7 | Big Sur 11.6 (20G165) | Monterey 12.1 | Ventura 13.0 Beta (22A5286j) |** <br>
-OpenCore version: 0.8.2 (macOS 13 only) <br>
+**Support to macOS Ventura** | **Tested on Catalina v10.15.7 | Big Sur 11.6 (20G165) | Monterey 12.4 | Ventura 13.0 Beta (22A5286j) |** <br>
+OpenCore version: 0.8.2 (macOS 12 and 13) <br>
 https://cloud.bobmaster.cyou/s/byxkz2jK3GgeEtd
 
 OpenCore version: 0.7.7  <br>
-Please download it from release: https://github.com/hibobmaster/HP-15-dc1010nr-hackintosh/releases
+Please download it from release: https://gitea.qqs.tw/bobmaster/HP-15-dc1010nr-hackintosh/releases
 
 OpenCore version: 0.6.3 (Catalina and Big Sur)  <br>
 https://down.sky-and-poem.fun/source/static/HP-15-dc1010nr-hackintosh-main.zip
