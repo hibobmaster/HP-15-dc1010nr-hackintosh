@@ -4,7 +4,11 @@
 https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
 
-**Support to macOS Ventura** | **Tested on Catalina v10.15.7 | Big Sur 11.6 (20G165) | Monterey 12.4 | Ventura 13.0 Beta (22A5286j) |** <br>
+**Support to macOS Ventura** | **Tested on Catalina v10.15.7 | Big Sur 11.6 (20G165) | Monterey 12.5.1 | Ventura 13.0 Beta (22A5286j) |** <br>
+
+OpenCore version: 0.8.4 (macOS 12 and 13) <br>
+https://cloud.bobmaster.cyou/s/bFjRmToYqpYkL8n
+
 OpenCore version: 0.8.2 (macOS 12 and 13) <br>
 https://cloud.bobmaster.cyou/s/byxkz2jK3GgeEtd
 
