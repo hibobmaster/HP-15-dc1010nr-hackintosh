@@ -3,6 +3,10 @@
 
 https://blog.hibobmaster.com/hp-15-dc1010nr-hackintosh 「Chinese」
 
+I'm sorry, but everything has come to an end. I have sold my laptop and no longer have the ability to continue testing. Thank you all for the stars and the affirmation over the years. I hope everyone can make good use of the Dortania documentation. It's where my journey began.
+
+Best wishes!
+
 
 **Support to macOS Ventura** | **Tested on Catalina v10.15.7 | Big Sur 11.6 (20G165) | Monterey 12.5.1 | Ventura 13.0 Beta (22A5286j) |** <br>
 
